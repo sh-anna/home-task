@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-express-sequelize-mysql",
+  "version": "1.0.0",
+  "description": "mysql, express, nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "mysql",
+    "express",
+    "nodejs"
+  ],
+  "author": "anna",
+  "license": "ISC"
+}
